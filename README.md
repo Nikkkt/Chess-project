@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-    <h2 align="center">Шахматы на языке C++, с использованием библиотеки SFML</h2>
+    <h2 align="center">Chess in C++, using the SFML library</h2>
 </p>
 
-<br>
+
 
 <h3 align="center">
 <a href="https://github.com/Nikkkt/Chess-project/blob/main/chess/main.cpp">
