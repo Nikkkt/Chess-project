@@ -1,0 +1,37 @@
+﻿  main.cpp
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(118,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(119,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(353,76): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(353,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(357,76): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(357,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(372,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(372,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(376,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(376,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(382,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(382,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(386,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(386,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(392,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(392,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(396,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(396,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(402,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(402,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(406,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(406,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(412,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(412,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(416,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(416,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(422,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(422,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(426,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\chess\main.cpp(426,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  96 of 99 functions (97.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+  Создание кода завершено
+    1 functions had inline decision re-evaluated but remain unchanged
+  chess.vcxproj -> C:\Users\nikit\OneDrive\Рабочий стол\Programming\C++\chess\x64\Release\chess.exe
