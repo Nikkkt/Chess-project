@@ -8,13 +8,14 @@
 
 <br>
 
-<a href="chess/main.cpp">
-    <h2 align="center">Main code file</h2>
-</a>
+<h3 align="center">
+<a href="https://github.com/Nikkkt/Chess-project/blob/main/chess/main.cpp">
+Main code file
+</a></h3>
 
-<a href="chess/logic.h">
-    <h2 align="center">Logic header file</h2>
-</a>
+<h3 align="center">
+<a href="https://github.com/Nikkkt/Chess-project/blob/main/chess/logic.h">Logic header file
+</a></h3>
 
 <br>
 
