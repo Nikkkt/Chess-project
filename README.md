@@ -23,6 +23,6 @@ Main code file
     <img src="images/Board.png">
 </p>
 
-<p align="center"><strong>ShoSho? Team</strong></p>
+<p align="center"><strong>"ShoSho?" Team</strong></p>
 
 <p align="center"><a href="https://github.com/aokiji123"><i>Bogdan Tolmachev</i></a>, <a href="https://github.com/Nikkkt"><i>Terpilovskyi Nikita</i></a>, <a href="https://github.com/SlavikArt"><i>Viacheslav Artsybashev</i></a></p>
