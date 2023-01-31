@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="images/Logo.png">
+    <img src="images/Logo.png" style="width: 65%">
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Main code file
 <br>
 
 <p align="center">
-    <img src="images/Board.png">
+    <img src="images/Board.png" style="width: 50%">
 </p>
 
 <p align="center"><strong>"ShoSho?" Team</strong></p>
