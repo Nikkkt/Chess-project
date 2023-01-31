@@ -1,4 +1,4 @@
-<p align="center" style="width: 70%>
+<p align="center">
     <img src="images/Logo.png">
 </p>
 
@@ -19,7 +19,7 @@ Main code file
 
 <br>
 
-<p align="center" style="width: 50%>
+<p align="center">
     <img src="images/Board.png">
 </p>
 
